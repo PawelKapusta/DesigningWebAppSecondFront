@@ -1,1 +1,5 @@
 # DesigningWebAppSecondFront
+
+```
+npx prettier --write .
+```

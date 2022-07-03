@@ -1,0 +1,20 @@
+.mainDiv {
+  margin-bottom: 25px;
+}
+
+.header {
+  text-align: center;
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.card {
+  background-color: #f5f5f5;
+  border: 1px solid black;
+  width: 90%;
+  margin: 0 auto;
+}
